@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liquid-Pixel
-- 👀 I’m interested in Programming and video games
-- 🌱 I’m currently learning Java and the Unity game engine (in C#)
+- 👀 I’m interested in many things including Programming, Cyber Security and Video Games
+- 🌱 I’m currently learning Dart and expanding my knowleddge of Java and Unity game engine!
 
 <!---
 Liquid-Pixel/Liquid-Pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
